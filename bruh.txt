@@ -1,4 +1,5 @@
-bruh amd
+bruh and bro
 bruh
 Added this text:
-removd: 
+removed: 
+The text above is now in the bro branch and should not be affecting the main bruh
